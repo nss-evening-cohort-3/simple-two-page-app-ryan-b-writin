@@ -2,7 +2,7 @@
 
 Goal of this (in-class) assignment is to ensure students can quickly:
 
-1. Setup a .NET MVC Web Application (With a Unit Test project)
+1. Setup a .NET MVC Web Application (No Authentication and with a Unit Test project)
 2. Install and configure angularJS
 3. Modify Razor Views and Scripts to prove Angular is working.
 
